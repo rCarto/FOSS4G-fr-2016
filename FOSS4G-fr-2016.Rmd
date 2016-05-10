@@ -507,4 +507,5 @@ Le package sur GitHub : [https://github.com/Groupe-ElementR/cartography/](https:
 
 Carnet de recherche R Géomatique : [http://rgeomatic.hypotheses.org/](http://rgeomatic.hypotheses.org/)  
 
+Cette présentation : [http://wukan.ums-riate.fr/FOSS4G-fr-2016/FOSS4G-fr-2016.html](http://wukan.ums-riate.fr/FOSS4G-fr-2016/FOSS4G-fr-2016.html)
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
